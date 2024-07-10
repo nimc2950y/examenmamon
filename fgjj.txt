@@ -1,41 +1,4 @@
-
-
-
-
-
-
-
-mark Zuckerberg le invita a un concurso de programación donde el reto es programar un 
-demo para la gestion y análisis de los usuarios y mesajes generados en su plataforma de mesajeria recién adquirida wasap dados los siguientes requisitos 
-1.de los USUARIOS se deben registrar su nombre,estado y cualquier otro detalle necesario que crea conveniente para resolver el reto.ademas debe actualizar y consultar la información del usuario asociada a los mesajes por el generados
-2.los mensajes enviados por un usuario,incluyen el contenido del mesaje,la fecha,hora de envió y cualquier otra información otra información relevante  q crea conveniente para resolver el reto además se debe gestionar los detalles del mesaje y consulta la información asociada con el mismo
-3.el reto consiste en dado un conjunto de usuarios y mensajes generar las siguientes estadísticas quee permita la toma de deciciones para implementar futuras mejoras en la app de mesajeria wasap
--numero de usuarios que tiene mas de 3 mesajes en estado "no enviado"
--hora mas frecuente en las cuales los mesajes tiene como estado "no enviado"considere de 0 a 12 horas cerradas)
--cantidad de usuarios con todos sus mesajes en estado de "enviado" o "visto"
-el diseño de este demo permitirá gestionar eficientemente la información de los usuarios y sus mesajes en whasapp promocionando una herramienta completa para seguimiento y análisis de muchas de las actividades de los usuarios en la plataforma de mensajeria istantanea y asi poder tomar furutas deciciones de mejorar a los directivos de meta 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+NUEVO EXAMEN 
 
 
 
